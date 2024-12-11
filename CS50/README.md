@@ -5,5 +5,5 @@ Neste tópico, eu estou estudando o conteúdo pelas anotações das aulas do CS5
 ## Lecture 0 - Scratch
 https://cs50.harvard.edu/x/2024/notes/1/
 
-**Anotações**
+### Descrição
 
